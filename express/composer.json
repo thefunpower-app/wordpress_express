@@ -1,0 +1,8 @@
+{
+    "require": {
+        "thefunpower/wordpress": "dev-main",
+        "thefunpower/baidu_nlp": "dev-main",
+        "thefunpower/captcha": "^1.0",
+        "helophp/zopsdk-php": "^1.0" 
+    }
+}

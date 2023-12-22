@@ -1,0 +1,11 @@
+{
+    "require": {
+        "thefunpower/wordpress": "dev-main",
+        "thefunpower/baidu_nlp": "dev-main",
+        "thefunpower/express_template": "dev-main", 
+        "thefunpower/captcha": "^1.0",
+        "helophp/zopsdk-php": "^1.0",
+        "picqer/php-barcode-generator": "^2.4",
+        "thefunpower/sony_flake_id": "^2.1" 
+    }
+}
